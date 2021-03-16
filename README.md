@@ -1,6 +1,8 @@
+LOCAL
+
 # merge-n-conflict-
 
 
-Hi 
+Hi
 
 I feel bored...
